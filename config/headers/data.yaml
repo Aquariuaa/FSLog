@@ -1,4 +1,4 @@
-data_root: /home/inspur/MAX_SPACE/Jiyu/LFSLog/dataset_floder/standard/test/tbird_time
+data_root: ../dataset_floder/standard/test/tbird_time
 image_size: 300
 use_memory: False
 augment: False
